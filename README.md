@@ -56,16 +56,4 @@ https://github.com/avantika2195/Khana-Khazana.git
 - Tailwind CSS
 - Axios
 
-## Contact
 
-For any questions or feedback, feel free to contact me:
-
-- GitHub: [makkihrb](https://github.com/makkihrb)
-- Email: [mekki.harboub@gmail.com](mailto:mekki.harboub@gmail.com)
-- LinkedIn: [Mekki Harboub](https://www.linkedin.com/in/makkiharboub/)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Please don't forget to replace `your_edamam_app_id`, `your_edamam_app_key`, and `your_youtube_api_key` with your actual API keys.#
