@@ -28,7 +28,7 @@ const Navbar = () => {
             <nav className='flex w-full py-2 md:py-3 px-4 md:px-20 items-center justify-between'>
                 <a href="/" className='flex items-center justify-center text-white text-lg cursor-pointer'>
                     <img src={Logo} alt="Logo" className='hidden md:block w-8 h-8 lg:w-14 lg:h-14' />
-                    Recetti<span></span>
+                    KHANA KHAZANA<span></span>
                 </a>
 
                 <ul className='hidden md:flex text-white gap-6'>
@@ -39,7 +39,7 @@ const Navbar = () => {
                         <a href="/#recipes">Explore</a>
                     </li>
                     <li>
-                        <a href="/favorites">Favorites</a>
+                        <a href="/about">About</a>
                     </li>
                 </ul>
 
@@ -50,7 +50,7 @@ const Navbar = () => {
             <div className={`${open ? "flex" : "hidden"} bg-black flex-col w-full px-4 pt-16 pb-10 text-white gap-6 text-[14px]`}>
                 <a href="/">Home</a>
                 <a href="/#recipes">Recipes</a>
-                <a href="/">Favorites</a>
+                <a href="/">About</a>
             </div>
         </header>
     );
